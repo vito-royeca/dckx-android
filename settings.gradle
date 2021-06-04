@@ -1,0 +1,2 @@
+rootProject.name = "dckx"
+include ':app'
